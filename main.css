@@ -1,0 +1,249 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background:linear-gradient(45deg,rgb(107, 105, 107),rgb(31, 5, 42));
+  }
+  
+  p{ 
+      color:rgb(49, 226, 43);
+      font-style: normal;
+      font-variant: normal;
+      font-size: medium;
+  
+    
+  }
+  
+  .header h1{
+    color:rgb(5, 1, 8);
+    text-shadow:0 0 5px rgb(151, 64, 212);
+    font-style:normal;
+    font-weight: 1000;
+    text-decoration: wavy;
+    text-shadow: 10px;
+    text-align: left;
+    font-size: auto;
+    
+  }
+  .header h2{
+    color:rgb(5, 1, 8);
+    text-shadow:0 0 5px rgb(151, 64, 212);
+    font-style:normal;
+    font-weight: 500;
+    text-decoration: wavy;
+    text-shadow: 1%;
+    text-align: left;
+    font-size: auto;
+    
+  }
+
+  .header h3{
+    color:rgb(5, 1, 8);
+    text-shadow:0 0 5px rgb(151, 64, 212);
+    font-style:normal;
+    font-weight: 500;
+    text-decoration: wavy;
+    text-shadow: 1%;
+    text-align: left;
+    font-size: auto;
+    
+  }
+
+  .header img{
+    display:block;
+    margin-left: 25%;
+    margin-right:50%;
+    object-fit: cover;
+    width: 50%;
+    padding: 5px;
+    box-shadow: 0 0 5px rgb(70, 0, 128);
+    border: 2px black solid;
+    border-radius: 10px;
+  }
+  
+  .navbar{
+    overflow:hidden;
+    background-color:rgb(6, 6, 6);
+    box-shadow: 0 0 7px rgb(70, 0, 128);
+    border-radius: 10px;
+  }
+  
+  .navbar a{
+  
+    display:-moz-inline-stack;
+    padding: 7px 14px;
+  }
+  
+  .navbar a:hover{
+    background-color: rgb(70, 0, 128);
+    color:rgb(31, 205, 8);
+  }
+  
+  .fname{
+    font-size: large;
+    color: aliceblue;
+  }
+  
+  .lname{
+    font-size: large;
+    color: aliceblue;
+  }
+  
+  .sign-in{
+    color:black;
+    text-shadow:0 0 3px rgb(70, 0, 128);
+    font-family: fantasy;
+  }
+  
+  .org{
+    font-size: large;
+    color: aliceblue;
+  }
+  
+  .aboutMe{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(11, 0, 19);
+    text-shadow: 0 0 5px rgb(47, 25, 82);
+  }
+  
+  th, td{
+    padding: 4px;
+    text-align: center;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    box-shadow: 0 0 1px rgb(1, 1, 1);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(0, 0, 0);
+    text-shadow: 2px black;
+  }
+  
+  tr:hover{
+    background-color: rgb(90, 14, 152);
+    color: red;
+    
+  }
+  
+  h2{
+    text-align: center;
+  }
+  
+  .numSeven{
+    image-rendering: auto;
+  }
+  
+  .sax{
+    image-rendering: auto;
+  }
+  .table{
+    text-shadow:rgb(151, 64, 212) 0 0 2px;
+    text-align:center;
+   margin-top: 0%;
+    width: 20%;
+  
+  }
+  
+  .bulls2{
+    padding-bottom: 0%;
+    display:inline;
+    margin-bottom: 60%;
+    width:50%;
+  }
+
+  .school {
+    font-family:monospace;
+    background: radial-gradient(rgb(24, 64, 150),rgb(46, 168, 46))
+  }
+
+  #schoolP{
+    color:rgb(80, 83, 80)
+}
+
+#logo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tableSchool{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#CourseWork{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(12, 77, 9);
+    text-shadow: 0 0 2px rgb(190, 190, 190);
+    font-size: 600%;
+}
+#VolunteerWork{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(12, 77, 9);
+    text-shadow: 0 0 2px rgb(190, 190, 190);
+    font-size: 600%;
+}
+.container {
+  position: relative;
+  font-family: Arial;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-block {
+  position: absolute;
+  display: block;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0.137);
+  color: rgb(45, 136, 9);
+  text-shadow: 0 0 2px black;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-block:hover{
+  background-color: rgb(119, 119, 119);
+  color:white
+}
+
+.Ri{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(12, 77, 9);
+}
+
+.WhatILearned{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 0 0 2px rgb(197, 157, 48);
+    color: rgb(248, 248, 248);
+}
+
+.siteQuestion{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.fun {
+    font-family:monospace;
+    background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);
+}
+#smiley {
+    color: red;
+    position: relative;
+    text-align: center;
+    font-size: 50pt;
+    animation-name: smiley;
+    animation-duration: 3s;
+    animation-iteration-count: 2;
+    animation-direction: alternate;  
+}
+  
+@keyframes smiley {
+    0%   {color:rgb(34, 167, 34); left:0px; top:0px;}
+    25%  {color:yellow; left:200px; top:0px;}
+    50%  {color:rgb(0, 0, 0); left:200px; top:200px;}
+    75%  {color:rgb(34,167,34); left:0px; top:200px;}
+    100% {color:red; left:0px; top:0px;}
+}
+  
+.tableF{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
